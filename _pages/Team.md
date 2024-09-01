@@ -7,8 +7,7 @@ nav: true
 nav_order: 2
 ---
 I'm proud to lead the System Wisdom Lab (SysdomLab), which comprises a group of diligent talents with diverse backgrounds.
-We are dedicated to comprehending and exercising  wisdoms to make elegant and impactful system optimizations.
-
+We are dedicated to comprehending and exercising the system-designing wisdoms, in hope to make elegant and impactful system optimizations for the community.
 
 <h3> Faculty </h3>
 ---
@@ -19,7 +18,7 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
         <img class="img-fluid rounded" src="/assets/img/chen.jpg" width="130px" alt="" title="chenchen"/>
     </div>
     <div class="col-sm-9 mt-1 mt-md-1 col-md-9 col-8 col-lg-8">
-        <h4><b>Dr. Chen Chen</b></h4>
+        <h4><a href="mailto:chen-chen@sjtu.edu.cn"><b>Dr. Chen Chen</b></a></h4>
         <span>Associate Professor</span><br />
         <span>Email: chen-chen at sjtu.edu.cn</span> <br />
         <span>Office: SEIEE 3-119, No. 800 Dongchuan Rd.</span>
@@ -40,7 +39,7 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
                 <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4><a><b>Tianze Wang</b></a></h4>
+                <h4><a href="mailto:wtz514@sjtu.edu.cn"><b>Tianze Wang</b></a></h4>
                 <span>2023 Fall</span> <br />                
                 <span>B.S. Sichuan University</span>
             </div>
@@ -52,7 +51,7 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
             <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
         </div>
         <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-            <h4><a href=""><b>Di Liu</b></a></h4>
+            <h4><a href="mailto:liu-di@sjtu.edu.cn"><b>Di Liu</b></a></h4>
             <span>2024 Fall</span> <br />
             <span>B.S. Beijing Jiaotong University</span> <br />
             <span>M.S. Beihang University</span>
@@ -65,7 +64,7 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
             <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
         </div>
         <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-            <h4><a href=""><b>Na Lyu</b></a></h4>
+            <h4><a href="mailto:lvna26@outlook.com"><b>Na Lyu</b></a></h4>
             <span>2024 Fall</span> <br />
             <span>B.S. Beijing Jiaotong University</span> <br />
             <span>M.S. Chinese Academy of Science</span>
@@ -84,23 +83,24 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-            <img class="img-fluid rounded" src="/assets/img/peiman.jpeg" width="130px" alt="" title=""/>
+            <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
         </div>
         <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-            <h4><b>Peiman Fotouhi</b></h4>
+            <h4><b>Zuo Gan</b></h4>
             <span>2022 Fall</span> <br />
-            <span>B.S. University of Isfahan</span> <br />
+            <span>B.S. Xi'an Jiaotong University</span> <br />
+            <span><i>SJTU-Huawei Joint Training Program</i></span><br />
         </div>
          </div>
     </div> 
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/shaghayegh.jpg" width="130px" alt="" title=""/>
+                <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4><b>Shaghayegh Rabbanian</b></h4>
-                <span>Master, 2023</span><br />
+                <h4><b>Zhi Shen</b></h4>
+                <span>2022 Fall</span><br />
                 <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE'23</a>]</span><br />
                 <span>Ph.D. from the MIE Department</span><br />
                 <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
@@ -126,7 +126,6 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Damien H Nguyen</b></h4>
                     <span>Joined at 2023 Fall</span><br />
-                    <span>Freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />
                     <br />
                 </div>
             </div>
@@ -170,20 +169,6 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
                 </div>
             </div>
         </div>
-        <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/hayden.jpeg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Hayden Duplantier</h4>
-                    <span>Joined at 2023 Fall</span><br />
-                    <span>With the <a href="https://www.lsu.edu/cybersecurity/scholarships-for-service/index.php">LSU Scholarship for Service (SFS)</a> project</span><br/>
-                    <span>AI Model Ballistics</span><br />
-                    <br />
-                </div>
-            </div>
-        </div> -->
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -248,7 +233,6 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Nasser J Mohammed</b></h4>
                     <span>Joined at 2021 Fall</span><br />
-                    <span><a href="/projects/5_project/">Automating Material Measurement and Evaluation using CV Approaches</a></span><br />
                     <span>Admitted by LSU CS Master program</span><br />
                 </div>
             </div>
@@ -262,7 +246,6 @@ We are dedicated to comprehending and exercising  wisdoms to make elegant and im
                     <h4><b>William Wei</b></h4>
                     <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
                     <span>Baton Rouge Magnet High School</span><br />
-                    <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>
                     <span>:tada: Admitted by Yale</span><br />
                 </div>
             </div>
