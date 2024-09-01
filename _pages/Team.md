@@ -89,7 +89,7 @@ We are dedicated to comprehending and exercising the system-designing wisdoms, i
             <h4><b>Zuo Gan</b></h4>
             <span>2022 Fall</span> <br />
             <span>B.S. Xi'an Jiaotong University</span> <br />
-            <span><i>SJTU-Huawei Joint Training Program</i></span><br />
+            <span><i>SJTU-Huawei Joint Program</i></span><br />
         </div>
          </div>
     </div> 
@@ -101,13 +101,38 @@ We are dedicated to comprehending and exercising the system-designing wisdoms, i
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4><b>Zhi Shen</b></h4>
                 <span>2022 Fall</span><br />
-                <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE'23</a>]</span><br />
-                <span>Ph.D. from the MIE Department</span><br />
-                <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
+                <span>B.S. Hefei University of Technology</span><br />
+                <span>SJTU-CETC Joint Program</span><br />
             </div>
             </div>
         </div>
     </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/sahithi.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Sahithi Rampally</b></h4>
+                    <span>Joined at 2024 Spring</span><br />
+                    <span>Federated Learning</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/jackson-descant.JPG" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Jackson Descant</b></h4>
+                    <span>Joined at 2024 Spring</span><br />
+                    <span>Serverless Computing</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
 </div>
 
 <br />
