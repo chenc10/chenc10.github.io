@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!
+Awarded CCF-Huawei Populus Grove Fund.

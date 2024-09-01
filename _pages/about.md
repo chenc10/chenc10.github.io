@@ -28,4 +28,4 @@ My research aims at optimizing distributed systems supporting modern application
 I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.
 I am always looking for self-motivated undergraduate, Master and PhD students. Feel free to drop me an email if you are interested. 
 
-2025级招生还有1个专业硕士名额，欢迎大家联系。
+2025级招生还有1个专业硕士名额，欢迎同学们联系。
