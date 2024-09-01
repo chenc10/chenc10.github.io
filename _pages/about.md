@@ -1,25 +1,31 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor, Doctoral Supervisor
+ # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>SEIEE 3-119, SJTU (Minhang)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a tenure-track associate professor in the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/) (affiliated under the School of Electronic Information and Electrical Engineering), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
+At SJTU, I am also a member of [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn/).
+Prior to joining SJTU, I worked as a Researcher at Huawei Hong Kong Research Center (2012 Labs) from Aug. 2018 to Dec. 2021. 
+I obtained my PhD degree in [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) from [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html). 
+During my PhD studies, I also had a fantastic visiting experience at the [University of Toronto](https://www.utoronto.ca/) under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/).
+I obtained my Bachelor degree in 2014 from the [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua Univerity](https://www.tsinghua.edu.cn/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims at optimizing distributed systems supporting modern applications, with a special focus on machine learning applications in topics of Federated Learning, Deep Learning Scheduling and LLM Inferences. 
+I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.
+I am always looking for self-motivated undergraduate, Master and PhD students. Feel free to drop me an email if you are interested. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2025级招生还有1个专业硕士名额，欢迎大家联系。
