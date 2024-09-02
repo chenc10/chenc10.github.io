@@ -39,7 +39,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/wangtianze.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><a href="mailto:wtz514@sjtu.edu.cn"><b>Tianze Wang</b></a></h4>
@@ -86,7 +86,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/ganzuo.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Zuo Gan</b></h4>
@@ -112,7 +112,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/liuyifei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Yifei Liu</b></h4>
@@ -125,7 +125,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/yuwei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Wei Yu</b></h4>
@@ -138,10 +138,10 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/chenjinglin.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><b>Jingling Chen</b></h4>
+                    <h4><b>Jinglin Chen</b></h4>
                     <span>Joined in 2024 Fall</span><br />
                     <span>On LLM Inferences</span><br />
                     <br />
@@ -156,6 +156,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Zhenghao Gan</b></h4>
                     <span>Joined in 2024 Fall</span><br />
+                    <span>SJTU-Huawei Joint Program</span><br />
                     <span>On LLM Inferences</span><br />
                     <br />
                 </div>
@@ -174,7 +175,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/wangguanjie.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Guanjie Wang</b></h4>
@@ -213,7 +214,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/wangyuxuan.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Yuxuan Wang</b></h4>
@@ -250,7 +251,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/default.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/linchaofan.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><b>Chaofan Lin</b></h4>

@@ -24,7 +24,7 @@ I obtained my PhD degree in [Department of Computer Science and Engineering](htt
 During my PhD studies, I also had a fantastic visiting experience at the [University of Toronto](https://www.utoronto.ca/) under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/).
 I obtained my Bachelor degree in 2014 from the [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua Univerity](https://www.tsinghua.edu.cn/).
 
-My research aims at optimizing distributed systems supporting modern applications, with a special focus on machine learning applications in topics of Federated Learning, Deep Learning Scheduling and LLM Inferences. 
+My research aims at optimizing distributed systems supporting modern applications, with a special focus on machine learning applications in topics of Federated Learning, Deep Learning Scheduling and LLM Inference. 
 I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.
 I am always looking for self-motivated undergraduate, Master and PhD students. Feel free to drop me an email if you are interested. 
 
