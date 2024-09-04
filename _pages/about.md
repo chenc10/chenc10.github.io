@@ -27,5 +27,3 @@ I obtained my Bachelor degree in 2014 from the [Department of Automation](https:
 My research aims at optimizing distributed systems supporting modern applications, with a special focus on machine learning applications in topics of Federated Learning, Deep Learning Scheduling and LLM Inference. 
 I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.
 I am always looking for self-motivated undergraduate, Master and PhD students. Feel free to drop me an email if you are interested. 
-
-2025级招生还有1个专业硕士名额，欢迎同学们联系。

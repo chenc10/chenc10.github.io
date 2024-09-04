@@ -1,41 +1,8 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
 "li":
-  - firstname: ["Bo"]
+  - firstname: ["Bo", "B."]
     url: https://www.cse.ust.hk/~bli/ 
+  - firstname: ["Baochun"]
+    url: https://iqua.ece.toronto.edu/bli/ 
 
 "wang":
   - firstname: ["Wei", "W."]
@@ -44,3 +11,31 @@
 "guo":
   - firstname: ["Minyi", "M."]
     url: https://cs.sjtu.edu.cn/~guo-my/ 
+
+"chen":
+  - firstname: ["Quan", "Q."]
+    url: https://www.cs.sjtu.edu.cn/~chen-quan/ 
+
+"zhao":
+  - firstname: ["Jieru", "J."]
+    url: https://zjru.github.io/ 
+
+"zhu":
+  - firstname: ["Yifei", "Y."]
+    url: https://sites.ji.sjtu.edu.cn/yifei-zhu/ 
+
+"zeng":
+  - firstname: ["Gaoxiong", "G."]
+    url: https://gaoxiong.site/ 
+
+"weng":
+  - firstname: ["Qizhen", "Q."]
+    url: https://qzweng.github.io/ 
+  
+"xu":
+  - firstname: ["Hong", "H."]
+    url: https://henryhxu.github.io/ 
+
+"jiang":
+  - firstname: ["Zhifeng", "Z."]
+    url: https://home.cse.ust.hk/~zjiangaj/
