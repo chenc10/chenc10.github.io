@@ -1,3 +1,19 @@
+"chen":
+  - firstname: ["Quan", "Q."]
+    url: https://www.cs.sjtu.edu.cn/~chen-quan/ 
+
+"guo":
+  - firstname: ["Minyi", "M."]
+    url: https://cs.sjtu.edu.cn/~guo-my/ 
+
+"han":
+  - firstname: ["Zhenhua", "Z."]
+    url: https://hzhua.github.io/ 
+
+"jiang":
+  - firstname: ["Zhifeng", "Z."]
+    url: https://home.cse.ust.hk/~zjiangaj/
+
 "li":
   - firstname: ["Bo", "B."]
     url: https://www.cse.ust.hk/~bli/ 
@@ -8,13 +24,17 @@
   - firstname: ["Wei", "W."]
     url: https://www.cse.ust.hk/~weiwa/ 
 
-"guo":
-  - firstname: ["Minyi", "M."]
-    url: https://cs.sjtu.edu.cn/~guo-my/ 
+"weng":
+  - firstname: ["Qizhen", "Q."]
+    url: https://qzweng.github.io/ 
 
-"chen":
-  - firstname: ["Quan", "Q."]
-    url: https://www.cs.sjtu.edu.cn/~chen-quan/ 
+"xu":
+  - firstname: ["Hong", "H."]
+    url: https://henryhxu.github.io/ 
+  
+"zeng":
+  - firstname: ["Gaoxiong", "G."]
+    url: https://gaoxiong.site/ 
 
 "zhao":
   - firstname: ["Jieru", "J."]
@@ -23,19 +43,3 @@
 "zhu":
   - firstname: ["Yifei", "Y."]
     url: https://sites.ji.sjtu.edu.cn/yifei-zhu/ 
-
-"zeng":
-  - firstname: ["Gaoxiong", "G."]
-    url: https://gaoxiong.site/ 
-
-"weng":
-  - firstname: ["Qizhen", "Q."]
-    url: https://qzweng.github.io/ 
-  
-"xu":
-  - firstname: ["Hong", "H."]
-    url: https://henryhxu.github.io/ 
-
-"jiang":
-  - firstname: ["Zhifeng", "Z."]
-    url: https://home.cse.ust.hk/~zjiangaj/

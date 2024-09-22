@@ -19,7 +19,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
 
 <div class="row">
     <div class="col-sm-3 mt-1 mt-md-1 col-md-3 col-4 col-lg-2">
-        <img class="img-fluid rounded" src="/assets/img/chen.jpg" width="130px" alt="" title="chenchen"/>
+        <img class="img-fluid rounded" src="/assets/img/chen_small.jpg" width="130px" alt="" title="chenchen"/>
     </div>
     <div class="col-sm-9 mt-1 mt-md-1 col-md-9 col-8 col-lg-8">
         <h4><a href="mailto:chen-chen@sjtu.edu.cn"><b>Dr. Chen Chen</b></a></h4>
