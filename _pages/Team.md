@@ -115,7 +115,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/liuyifei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="nephrencake@sjtu.edu.cn"><b>Yifei Liu</b></a></h4>
+                    <h4><a href="mailto:nephrencake@sjtu.edu.cn"><b>Yifei Liu</b></a></h4>
                     <span>Joined in 2023 Fall</span><br />
                     <span>B.S. Nanjing Tech University</span><br />
                     <span>SJTU-Huawei Joint Program</span><br />
@@ -143,7 +143,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/chenjinglin.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><b>Jinglin Chen</b></h4>
+                    <h4><a href="mailto:pegasus2024@sjtu.edu.cn"><b>Jinglin Chen</b></a></h4>
                     <span>Joined in 2024 Fall</span><br />
                     <span>B.S. Nanjing University</span><br />
                     <br />
@@ -156,7 +156,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/ganzhenghao.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><b>Zhenghao Gan</b></h4>
+                    <h4><a href="mailto:ganzhenghao@sjtu.edu.cn"><b>Zhenghao Gan</b></a></h4>
                     <span>Joined in 2024 Fall</span><br />
                     <span>B.S. Shanghai Jiao Tong University</span><br />
                     <span>SJTU-Huawei Joint Program</span><br />
@@ -164,6 +164,19 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                 </div>
             </div>
         </div> 
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/duboxiao.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><a href="mailto:dubx2024@sjtu.edu.cn"><b>Boxiao Du</b></a></h4>
+                    <span>Joined in 2024 Fall</span> <br />
+                    <span>B.S. Jilin University</span> <br />
+                    <span>SJTU-Huawei Joint Program</span><br />
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <br />
