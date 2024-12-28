@@ -245,7 +245,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
 <br />
 
 
-<h3> Previous Students Mentored</h3>
+<h3> Students Previously Worked With </h3>
 ---
 <div class="container">
     <div class="row">
@@ -258,7 +258,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <h4><b>Jiayi Zhang</b></h4>
                     <span>CS Class-2020</span><br />
                     <span>2023 Spring - 2024 Summer</span><br />
-                    <span>Coauthored four papers (two first-authored)</span><br />
+                    <!--<span>Coauthored four papers (two first-authored)</span><br />-->
                     <span>Now Master Student @ USC </span><br />
                 </div>
             </div>
@@ -272,7 +272,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <h4><b>Chaofan Lin</b></h4>
                     <span>ACM Class-2020</span><br />
                     <span>2023 Summer - 2023 Winter</span><br />
-                    <span>Co-supervised with Dr. <a href="https://hzhua.github.io/">Zhenhua Han</a> at MSRA </span><br />
+                    <!--<span>Co-supervised with Dr. <a href="https://hzhua.github.io/">Zhenhua Han</a> at MSRA </span><br />-->
                     <span>Now Ph.D student @ Tsinghua </span><br />
                 </div>
             </div>
