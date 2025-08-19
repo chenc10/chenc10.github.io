@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted by IEEE ICDCS.
+Two papers respectively on LLM application scheduling and Federated Learning accepted by IEEE ICDCS.

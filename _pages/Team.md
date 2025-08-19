@@ -42,7 +42,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/wangtianze.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:wtz514@sjtu.edu.cn"><b>Tianze Wang</b></a></h4>
+                    <h4><b>Tianze Wang</b></h4>
                     <span>Joined in 2023 Fall</span> <br />                
                     <span>B.S. Sichuan University</span>
                 </div>
@@ -54,7 +54,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/liudi.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:liu-di@sjtu.edu.cn"><b>Di Liu</b></a></h4>
+                    <h4><b>Di Liu</b></h4>
                     <span>Joined in 2024 Spring</span> <br />
                     <span>B.S. Beijing Jiaotong University</span> <br />
                     <span>M.S. Beihang University</span>
@@ -67,10 +67,35 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/lvna.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:lvna26@outlook.com"><b>Na Lyu</b></a></h4>
+                    <h4><b>Na Lyu</b></h4>
                     <span>Joined in 2024 Fall</span> <br />
                     <span>B.S. Beijing Jiaotong University</span> <br />
                     <span>M.S. Chinese Academy of Science</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/wangyanbo.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Yanbo Wang</b></h4>
+                    <span>Joined in 2025 Fall</span> <br />
+                    <span>B.S. Northeastern University</span> <br />
+                    <span>SJTU-TeleAI Joint Program</span> 
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/baoyichen.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Yichen Bao</b></h4>
+                    <span>Joined in 2025 Fall</span> <br />
+                    <span>B.S. South China University of Technology</span>
                 </div>
             </div>
         </div>
@@ -86,36 +111,10 @@ We are dedicated to comprehending and exercising the intriguing system-designing
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/ganzuo.jpg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:gz944367214@sjtu.edu.cn"><b>Zuo Gan</b></a></h4>
-                    <span>Joined in 2022 Fall</span> <br />
-                    <span>B.S. Xi'an Jiaotong University</span> <br />
-                    <span>SJTU-Huawei Joint Program</span><br />
-                </div>
-            </div>
-        </div> 
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/shenzhi.jpg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:847795475@sjtu.edu.cn"><b>Zhi Shen</b></a></h4>
-                    <span>Joined in 2022 Fall</span><br />
-                    <span>B.S. Hefei University of Technology</span><br />
-                    <span>SJTU-CETC Joint Program</span><br />
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                     <img class="img-fluid rounded" src="/assets/img/liuyifei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:nephrencake@sjtu.edu.cn"><b>Yifei Liu</b></a></h4>
+                    <h4><b>Yifei Liu</b></h4>
                     <span>Joined in 2023 Fall</span><br />
                     <span>B.S. Nanjing Tech University</span><br />
                     <span>SJTU-Huawei Joint Program</span><br />
@@ -129,7 +128,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/yuwei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:VltchekYu@outlook.com"><b>Wei Yu</b></a></h4>
+                    <h4><b>Wei Yu</b></h4>
                     <span>Joined in 2023 Fall</span><br />
                     <span>B.S. Institute of Disaster Prevention</span><br />
                     <span>SJTU-Soochow Joint Program</span><br />
@@ -143,7 +142,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/chenjinglin.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:pegasus2024@sjtu.edu.cn"><b>Jinglin Chen</b></a></h4>
+                    <h4><b>Jinglin Chen</b></h4>
                     <span>Joined in 2024 Fall</span><br />
                     <span>B.S. Nanjing University</span><br />
                     <br />
@@ -156,7 +155,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/ganzhenghao.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:ganzhenghao@sjtu.edu.cn"><b>Zhenghao Gan</b></a></h4>
+                    <h4><b>Zhenghao Gan</b></h4>
                     <span>Joined in 2024 Fall</span><br />
                     <span>B.S. Shanghai Jiao Tong University</span><br />
                     <span>SJTU-Huawei Joint Program</span><br />
@@ -170,10 +169,35 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <img class="img-fluid rounded" src="/assets/img/duboxiao.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="mailto:dubx2024@sjtu.edu.cn"><b>Boxiao Du</b></a></h4>
+                    <h4><b>Boxiao Du</b></h4>
                     <span>Joined in 2024 Fall</span> <br />
                     <span>B.S. Jilin University</span> <br />
                     <span>SJTU-Huawei Joint Program</span><br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/wangweiye.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Weiye Wang</b></h4>
+                    <span>Joined in 2025 Fall</span> <br />
+                    <span>B.S. East China Normal University</span> <br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/zhengshishuai.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Shishuai Zheng</b></h4>
+                    <span>Joined in 2025 Fall</span> <br />
+                    <span>B.S. Harbin Institute of Technology</span> <br />
+                    <span>SJTU-SenseTime Joint Program</span><br />
                 </div>
             </div>
         </div>
@@ -239,6 +263,45 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                 </div>
             </div>
         </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/fanhaochong.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Haochong Fan</b></h4>
+                    <span>John Class-2023</span><br />
+                    <span>Joined in 2025 Summer</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/zhangbohan.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Bohan Zhang</b></h4>
+                    <span>ACM Class-2023</span><br />
+                    <span>Joined in 2025 Summer</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/wangruitian.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Ruitian Wang</b></h4>
+                    <span>ACM Class-2023</span><br />
+                    <span>Joined in 2025 Summer</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -249,6 +312,32 @@ We are dedicated to comprehending and exercising the intriguing system-designing
 ---
 <div class="container">
     <div class="row">
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/ganzuo.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Zuo Gan</b></h4>
+                    <span>Master Student</span><br />
+                    <span>2022 Fall - 2025 Spring</span><br />
+                    <span>Now Engineer @ Tencent </span><br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/shenzhi.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Zhi Shen</b></h4>
+                    <span>Master Student</span><br />
+                    <span>2022 Fall - 2025 Spring</span><br />
+                    <span>Now Engineer @ Baidu </span><br />
+                </div>
+            </div>
+        </div>
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
