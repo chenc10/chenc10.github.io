@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I am proud to lead the System Wisdom Lab (SysdomLab), which comprises a group of diligent talents with diverse backgrounds.
+I am excited to lead the System Wisdom Lab (SysdomLab), which comprises a group of diligent talents with diverse backgrounds.
 We are dedicated to comprehending and exercising the intriguing system-designing wisdoms, in hope to make elegant and impactful system optimizations for the community.
 <div class="container">
 <br />
