@@ -26,4 +26,6 @@ During my PhD studies, I also had a fantastic visiting experience at the [Univer
 I obtained my Bachelor degree in 2014 from the [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 My research aims at optimizing distributed systems supporting modern applications, with a special focus on machine learning applications in topics of Federated Learning, Deep Learning Scheduling and LLM Inference. 
-I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use. I am always looking for self-motivated undergraduate, Master and PhD students. Feel free to drop me an email if you are interested. 
+I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use. I am always looking for self-motivated undergraduate, Master and PhD students (as of Nov. 2025, I have an additional PhD quota for 2026 intake). Feel free to drop me an email if you are interested. 
+
+  
