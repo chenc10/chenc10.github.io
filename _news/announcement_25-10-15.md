@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The SemanticPrefetcher work is accepted by CloudCom 2025.
+The SemanticPrefetcher work is accepted by CloudCom 2025. Congratulations to Tianze!

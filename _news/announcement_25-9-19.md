@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The RetrievalAttention work is accepted by NeurIPS 2025.
+The RetrievalAttention work is accepted by NeurIPS 2025. Congratulations to Di!

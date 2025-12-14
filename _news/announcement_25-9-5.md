@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on attaining efficient and also fair scheduling for model training jobs accepted by ACM TACO.
+One paper on attaining efficient and also fair scheduling for model training jobs accepted by ACM TACO. Congratulations to Yifei!
