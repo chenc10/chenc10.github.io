@@ -302,6 +302,19 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                 </div>
             </div>
         </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/huangfuboning.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><b>Boning Huangfu</b></h4>
+                    <span>John Class-2024</span><br />
+                    <span>Joined in 2025 Fall</span><br />
+                    <br />
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
