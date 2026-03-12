@@ -1304,3 +1304,7 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.container {
+  max-width: 1200px;  /* 你想要的宽度，也可设为 90% 或 1600px */
+}
