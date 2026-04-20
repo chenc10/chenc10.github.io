@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by TMC. Congratulations to Na Lyu, Jiayi Zhang and Zhi Shen!
+One paper is accepted by TPDS. Congratulations to Na Lyu, Jiayi Zhang and Zhi Shen!
