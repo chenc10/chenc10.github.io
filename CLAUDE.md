@@ -7,7 +7,7 @@
 - **线上地址**：https://chenc10.github.io
 - **源码分支**：`master`。push 到 `master` 后，GitHub Actions 工作流 `Deploy site`（`.github/workflows/deploy.yml`）自动执行 `jekyll build`，并把 `_site/` 发布到 `gh-pages` 分支，通常 1–3 分钟后线上生效。
 - **触发条件**：工作流只在改动 `assets/**`、`*.bib`、`*.md`、`*.yml`、`*.html`、`*.liquid`、`*.js`、`Gemfile` 时触发；`README.md` / `FAQ.md` / `INSTALL.md` / `CONTRIBUTING.md` 的改动不会触发部署。
-- **页面**：About（首页 `/`，`_pages/about.md`）、Publications（`/publications/`，由 `_bibliography/papers.bib` 经 jekyll-scholar 生成）、Team（`/team/`，`_pages/Team.md`）、News 全量页（`/news/`，不在导航栏；首页只显示最近 12 条）。
+- **页面**：About（首页 `/`，`_pages/about.md`）、Publications（`/publications/`，由 `_bibliography/papers.bib` 经 jekyll-scholar 生成，分 **Preprints**（`abbr={Arxiv}` 的条目，平铺不分年）与 **Refereed Papers**（其余条目，按年分组）两栏，见 `_pages/publications.md` 里的两个 `{% bibliography --query ... %}`）、Team（`/team/`，`_pages/Team.md`）、News 全量页（`/news/`，不在导航栏；首页只显示最近 12 条）。
 - **未启用的模板功能**：博客（`_posts/`）、CV 页（`_data/cv.yml`）、Projects、Repositories、首页精选论文区块（`selected_papers: false`）。这些位置的内容是模板自带样例，不需要维护，也不要删除。
 
 ## 2. 目录速查
@@ -52,6 +52,7 @@
 
 - **新条目插在文件顶部**：位于开头两行 `---` 与 `@string{...}` 之后。页面按 `year` 倒序分组，同一年内按文件中的先后顺序显示。
 - 必填字段：`abbr`（venue 缩写，如 `ASPLOS`、`OSDI`、`TPDS`、`Arxiv`，显示为左侧标签）、`title`、`author`、`booktitle`（会议）或 `journal`（期刊）、`year`。
+- `abbr={Arxiv}` 的条目会自动进入页面顶部的 Preprints 栏，其余进入 Refereed Papers；所以 arXiv 预印本的 `abbr` 必须严格写 `Arxiv`。
 - `author` 写 `Last, First and Last, First ...`；**通讯作者在姓后加星号**，如 `Chen*, Chen`，模板会显示星号。
 - `year` 按**会议召开年份**填写（2026 年录用、2027 年召开的会议写 `2027`）。
 - `booktitle` 用全称，如 `Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems`；期刊条目用 `journal={ACM Transactions on Architecture and Code Optimization}`，可附 `volume` / `number` / `pages`。
@@ -85,13 +86,20 @@ git push origin master
 ```
 
 - commit message 一句话说明改了什么即可（仓库历史惯用简短英文）。**不要附加 Co-Authored-By 等任何署名、尾注或生成标记。**
-- push 后可在 https://github.com/chenc10/chenc10.github.io/actions 查看 `Deploy site` 是否成功；成功后 1–3 分钟线上生效，浏览器有缓存时强制刷新。
+- push 后可在 https://github.com/chenc10/chenc10.github.io/actions 查看 `Deploy site` 是否成功；成功后 1–3 分钟线上生效，浏览器有缓存时强制刷新。同时被触发的 `Prettier code formatter` 与 `Check for broken links` 两个检查是模板自带的，历史上每次提交都失败，不影响发布，可忽略。
 - 构建失败最常见的原因：bib 语法错误（缺逗号、括号不配对）、frontmatter YAML 错误、文件名含空格或中文。
 - 禁止 `push --force`、rebase 已推送的历史、删除或改写他人的提交；拿不准的改动先确认。
 
 ## 5. 本地预览（可选）
 
-- 推荐 Docker：仓库根目录执行 `docker compose up`，浏览 http://localhost:8080 ，改动会热重载。
+- 推荐 Docker：仓库根目录执行 `docker compose up -d`（镜像 `amirpourmand/al-folio:latest`），浏览 http://localhost:8080 ，改动会自动重建。
+  - 该镜像（2026-08 起）的 Ruby 为 4.0，`logger` 等库不再默认加载，容器自带的 `jekyll serve` 会直接报 LoadError。不要为此改仓库的 Gemfile，而是在容器内用覆盖用的 Gemfile 启动：
+
+    ```bash
+    docker compose exec -T jekyll bash -c 'printf "eval_gemfile \"/srv/jekyll/Gemfile\"\ngem \"logger\"\ngem \"csv\"\ngem \"base64\"\ngem \"bigdecimal\"\ngem \"ostruct\"\ngem \"observer\"\ngem \"benchmark\"\ngem \"drb\"\ngem \"mutex_m\"\n" > /tmp/Gemfile.preview; cp Gemfile.lock /tmp/Gemfile.preview.lock; export BUNDLE_GEMFILE=/tmp/Gemfile.preview; bundle install --quiet; bundle exec jekyll serve -d /tmp/_site --host 0.0.0.0 --port 8080 --force_polling'
+    ```
+
+  - 容器启动时的 `bundle install` 会改写仓库中**受 git 跟踪的 `Gemfile.lock`**，预览结束后务必 `git checkout -- Gemfile.lock`，绝不能把它带进提交（线上构建用的是 Ruby 3.2）。
 - 不用 Docker 时可以只做静态检查，然后依赖 GitHub Actions 的构建结果：
 
   ```bash

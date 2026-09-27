@@ -15,6 +15,12 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+<h1>Preprints</h1>
+
+{% bibliography --query @*[abbr=Arxiv] --group_by none %}
+
+<h1>Refereed Papers</h1>
+
+{% bibliography --query @*[abbr!=Arxiv] %}
 
 </div>
