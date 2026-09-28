@@ -1308,3 +1308,12 @@ ninja-keys::part(ninja-input-wrapper) {
 .container {
   max-width: 1200px;  /* 你想要的宽度，也可设为 90% 或 1600px */
 }
+
+// News block: thin scrollbar for the scrollable news list on the homepage
+.news .table-responsive::-webkit-scrollbar {
+  width: 6px;
+}
+.news .table-responsive::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}

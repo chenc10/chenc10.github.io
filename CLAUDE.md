@@ -20,6 +20,7 @@
 | `_pages/Team.md` | 团队页（手写 HTML 卡片） | 偶尔 |
 | `assets/img/` | 头像 `chen.jpg` / `chen_small.jpg` 与成员照片（拼音全名小写，如 `wangtianze.jpg`；`default.jpg` 为占位图） | 偶尔 |
 | `_pages/about.md` | 首页个人简介；frontmatter 中的 `profile.more_info` 是办公室与邮箱 | 偶尔 |
+| `_layouts/about.liquid` | 首页的 **Teaching / Honors / Professional Services** 三段写死在这个布局文件里（不在 about.md）；课程按课程名合并、年份列在后面；论文奖也要同步加进 Honors | 偶尔 |
 | `_data/coauthorss.yml` | 合作者主页链接（见"已知问题"） | 偶尔 |
 | `_config.yml` | 站点配置：`announcements.limit: 12`（首页 News 条数）、`scholar`（bib 渲染）、`exclude` 列表 | 仅在明确要求时 |
 | `_layouts/`、`_includes/`、`_sass/`、`_plugins/`、`assets/css`、`assets/js` | 模板机制 | 不动 |
@@ -46,7 +47,7 @@
   - 学生一作论文录用："One paper on <topic> is accepted by <VENUE YEAR>. Congratulations to <Name>!"
   - 有系统名或合作论文："The <System> work, which <one-line description>, is accepted by <VENUE YEAR>."（合作论文不写 Congratulations）
   - 获奖、基金、arXiv 发布等同样用一句话说清。
-- 首页按 `date` 倒序显示最近 12 条（`_config.yml` 中 `announcements.limit`），全量见 `/news/`。
+- 首页 News 区块按 `date` 倒序显示**全部**条目，放在一个 320px 高、可滚动的框里（`_config.yml` 中 `announcements.scrollable: true`、`limit` 留空；高度写在 `_includes/news.liquid`，细滚动条样式在 `_sass/_base.scss` 末尾）；全量列表页仍是 `/news/`。
 
 ### 3.2 Publications（`_bibliography/papers.bib`）
 
@@ -56,6 +57,7 @@
 - `author` 写 `Last, First and Last, First ...`；**通讯作者在姓后加星号**，如 `Chen*, Chen`，模板会显示星号。
 - `year` 按**会议召开年份**填写（2026 年录用、2027 年召开的会议写 `2027`）。
 - `booktitle` 用全称，如 `Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems`；期刊条目用 `journal={ACM Transactions on Architecture and Code Optimization}`，可附 `volume` / `number` / `pages`。
+- `abstract={...}`：一段纯文本摘要，页面上显示为 ABS 按钮。特殊字符需转义（`\%`、`\&`、`\$`、`\#`、`\_`），不要含花括号和反斜杠命令。**新条目尽量补摘要**，来源优先级：出版社页面（IEEE Xplore 需用浏览器打开）> CVF/arXiv > 站内 PDF 抽取（需人工核对起止）。
 - 常用可选字段：
   - `pdf={2026_asplos_impeller.pdf}`：只写文件名，文件放在 `assets/pdf/`。
   - `award={...}` 与 `award_name={:trophy: Best Paper Award}`：获奖说明，`award` 里可以写 Markdown 链接。
@@ -110,6 +112,7 @@ git push origin master
 
 ## 6. 已知问题与待办
 
+- 尚无摘要的条目：`yu2026impeller`（ASPLOS'27，未公开）、`qiang2026fluxzk`（SC'26，未公开）；正式发表后补上。
 - `_bibliography/papers.bib` 中两条 IWQoS'24 条目共用 key `zuo2024pas`，需要改名区分。
 - News 提到但 bib 尚未收录的论文：SC'26（ZKP 合作论文）、ICPP'26、2026 年 5 月的 TACO 与两篇 IEEE JCC。
 - 模板读取的是 `_data/coauthors.yml`（当前为空文件），而合作者链接实际写在 `_data/coauthorss.yml`（多一个 s），因此论文页的合作者超链接目前未生效；是否合并两个文件需要确认。
