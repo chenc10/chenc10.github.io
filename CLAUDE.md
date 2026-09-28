@@ -47,7 +47,7 @@
   - 学生一作论文录用："One paper on <topic> is accepted by <VENUE YEAR>. Congratulations to <Name>!"
   - 有系统名或合作论文："The <System> work, which <one-line description>, is accepted by <VENUE YEAR>."（合作论文不写 Congratulations）
   - 获奖、基金、arXiv 发布等同样用一句话说清。
-- 首页 News 区块按 `date` 倒序显示**全部**条目，放在一个 320px 高、可滚动的框里（`_config.yml` 中 `announcements.scrollable: true`、`limit` 留空；高度写在 `_includes/news.liquid`，细滚动条样式在 `_sass/_base.scss` 末尾）；全量列表页仍是 `/news/`。
+- 首页 News 区块按 `date` 倒序显示**全部**条目，放在一个 520px 高（默认可见约 10 条）、可滚动的框里（`_config.yml` 中 `announcements.scrollable: true`、`limit` 留空；高度写在 `_includes/news.liquid`，细滚动条样式在 `_sass/_base.scss` 末尾）；全量列表页仍是 `/news/`。
 
 ### 3.2 Publications（`_bibliography/papers.bib`）
 

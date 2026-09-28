@@ -1310,6 +1310,9 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 // News block: thin scrollbar for the scrollable news list on the homepage
+.news .table-responsive {
+  margin-bottom: 1rem; // same gap as between the other sections
+}
 .news .table-responsive::-webkit-scrollbar {
   width: 6px;
 }
