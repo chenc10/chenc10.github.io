@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on accelerating diffussion model training is accepted by ICDCS. 
+One paper on accelerating diffusion model training is accepted by ICDCS. 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Hermes work, which remarkably accelerates LLM agent serving with a novel probabilistic demand model, is accepted by ACM TACO.  Congratulations to Yifei, Zuo, Zhenghao and Weiye!
+Our Hermes work, which remarkably accelerates LLM agent serving with a novel probabilistic demand model, is accepted by ACM TACO.  Congratulations to Yifei, Zuo, Zhenghao and Weiye!
