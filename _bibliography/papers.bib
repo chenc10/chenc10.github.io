@@ -3,6 +3,16 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{wang2026grgaugetcc,
+  abbr={TCC},
+  title={Towards Resource-Efficient Training-as-a-Service by Exploiting Runtime Gradient Statistics},
+  abstract={The recent success of artificial intelligence motivates many non-professional users to train their own models; those users often resort to cloud training services (aka Training-as-a-Service), seeking to obtain an accurate model at a modest cost. To that end, properly setting up the learning rate and batch size is crucial. While various Hyper-parameter Optimization (HPO) methods have been proposed in that regard, they largely act based on heavy-weight validation signals, being inefficient in the overall cost. We find that the model training process can be viewed as a two-dimensional voting process---with gradients for different iterations and from different samples; moreover, to attain cost-efficient training is to ensure that the gradient redundancy is within a proper range---which we find is generic across diverse models. Based on that insight, we introduce GR-Gauge, a general method that gauges the gradient redundancy to instruct HPO decisions like configuration searching and trial termination. Moreover, to improve overall training efficiency in shared clusters, we extend GR-Gauge to be resource-aware, by choosing the most appropriate batch size allowed within the healthy range. Extensive experiments demonstrate that GR-Gauge can help attain near-optimal accuracy, with a time reduction of over 80\%; meanwhile, its resource-aware extension reduces the average job queuing time by 77\% in a shared GPU cluster.},
+  author={Wang, Guanjie and Chen*, Chen and Liu, Yifei and Wang, Qiang and Wang, Cong and Chen, Quan and Guo, Minyi},
+  journal={IEEE Transactions on Cloud Computing},
+  pdf={2026_tcc_grgauge.pdf},
+  year={2026}
+}
+
 @inproceedings{yu2026impeller,
   abbr={ASPLOS},
   title={Impeller: Scalable and Efficient Zero-Knowledge Proof Computation Framework via Graph Compilation},
@@ -217,6 +227,7 @@
   abstract={The recent success of artificial intelligence motivates many non-professional users to train their own models. Those users often resort to cloud training services, seeking to obtain a sufficiently accurate model at a modest cost, for which properly setting up the learning rate and batch size is crucial. While various Hyper-parameter Optimization (HPO) methods have been proposed in that regard, they largely act based on heavy-weight validation signals, being inefficient in the overall cost. We find that the model training process can be viewed as a two-dimensional voting process---with gradients for different iterations and from different samples; moreover, to attain cost-efficient training is to ensure that the gradient redundancy is within a proper range which is similar across diverse models. Based on that insight, we further introduce GR-Gauge, a general method that gauges the gradient redundancy to instruct HPO decisions like configuration searching and trial termination. Extensive experiments demonstrate that GR-Gauge can help attain near-optimal accuracy in much less time than existing methods.},
   author={Wang, Guanjie and Chen*, Chen},
   booktitle={The IEEE / CVF Computer Vision and Pattern Recognition Conference},
+  pdf={2026_cvpr_grgauge.pdf},
   year={2026}
 }
 
