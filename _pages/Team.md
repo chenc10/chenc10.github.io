@@ -422,7 +422,7 @@ We are dedicated to comprehending and exercising the intriguing system-designing
                     <h4><b>Guanjie Wang</b></h4>
                     <span>Undergradute Student</span><br />
                     <span>2024 Summer - 2026 Spring</span><br />
-                    <span>Next Stop: Ph.D Student @ UC Berkeley </span><br />
+                    <span>Next Stop: Ph.D Student @ Carnegie Mellon University </span><br />
                     <br />
                 </div>
             </div>
